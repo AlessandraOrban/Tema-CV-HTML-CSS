@@ -1,0 +1,9 @@
+* {
+    margin: 16px;
+}
+
+h1, a, h2, .div-class .strong-class {
+    color: #005889;
+}
+
+
